@@ -1,5 +1,5 @@
 {
-    "name": "ryoluo/sail-ssl",
+    "name": "nobrudevz/sail-ssl",
     "description": "Laravel Sail plugin to enable SSL (HTTPS) connection with Nginx.",
     "keywords": [
         "laravel",
