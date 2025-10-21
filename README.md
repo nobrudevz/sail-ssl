@@ -14,7 +14,7 @@ You need to setup [Laravel Sail](https://github.com/laravel/sail) environment be
 ### With local PHP / Composer:
 
 ```sh
-composer require ryoluo/sail-ssl --dev
+composer require nobrudevz/sail-ssl --dev
 php artisan sail-ssl:install
 ./vendor/bin/sail up
 ```
